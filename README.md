@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Oracle Banking product**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👯 I’m looking to collaborate on **mobile development**
+- 👯 I’m looking to collaborate on **Mobile App Development and Web App Development**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java and Android App Development**
 
 - 📫 How to reach me **akakakaksky@gmail.com**
 
