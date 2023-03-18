@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash dubey</h1>
-<h3 align="center">A passionate mobile developer from India</h3>
+
 
 - 🔭 I’m currently working on **Oracle Banking product**
 
