@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash dubey</h1>
 <h3 align="center">A passionate mobile developer from India</h3>
 
-- 🔭 I’m currently working on **oracle product**
+- 🔭 I’m currently working on **Oracle Banking product**
 
-- 🌱 I’m currently learning **dsa**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **mobile development**
 
