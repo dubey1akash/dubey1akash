@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash dubey</h1>
 
 
-- 🔭 I’m currently working on **Oracle Banking product**
+- 🔭 I’m currently working on **Angular - Spring Boot**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **Mobile App Development and Web App Development**
 
 - 🤝 I’m looking for help with **Machine Learning**
-
-- 💬 Ask me about **Java and Android App Development**
 
 - 📫 How to reach me **akakakaksky@gmail.com**
 
