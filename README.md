@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash dubey</h1>
 
 
-- 🔭 I’m currently working on **Angular - SPRING BOOT**
+- 🔭 I’m currently working on **ANGULAR - SPRING BOOT**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
