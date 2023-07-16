@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash dubey</h1>
 
 
-- 🔭 I’m currently working on **spring boot - angular**
+- 🔭 I’m currently working on **Java | Spring-Boot | Microservices | Angular |**
 
-- 🌱 I’m currently learning **dsa**
+- 🌱 I’m currently learning **Data Structure And Algorithms**
 
 - 👯 I’m looking to collaborate on **Mobile App Development and Web App Development**
 
