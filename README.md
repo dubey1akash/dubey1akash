@@ -11,9 +11,12 @@
 </p>
 
 🛠 **Tech Stack:**
-- **Languages:** Java, C++
-- **Frontend:** Angular
-- **Backend:** Spring Boot
-- **DevOps:** Docker
-- **Security:** HashiCorp Vault
-- **Messaging:** Apache Kafka
+<p align="center">
+  <img src="https://url/to/java-logo.png" alt="Java" width="70" height="70"/>
+  <img src="https://url/to/cpp-logo.png" alt="C++" width="70" height="70"/>
+  <img src="https://url/to/angular-logo.png" alt="Angular" width="70" height="70"/>
+  <img src="https://url/to/spring-boot-logo.png" alt="Spring Boot" width="70" height="70"/>
+  <img src="https://url/to/docker-logo.png" alt="Docker" width="70" height="70"/>
+  <img src="https://url/to/hashicorp-vault-logo.png" alt="HashiCorp Vault" width="70" height="70"/>
+  <img src="https://url/to/apache-kafka-logo.png" alt="Apache Kafka" width="70" height="70"/>
+</p>
