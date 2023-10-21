@@ -12,7 +12,7 @@
 
 🛠 **Tech Stack:**
 <p align="center">
-  <img src="https://url/to/java-logo.png" alt="Java" width="70" height="70"/>
+  <img src="[https://url/to/java-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F19899948-java-png-free-download&psig=AOvVaw3Hh7bNLKZ_G_u4XkGaNSl-&ust=1698000807543000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCK84noh4IDFQAAAAAdAAAAABAE)" alt="Java" width="70" height="70"/>
   <img src="https://url/to/cpp-logo.png" alt="C++" width="70" height="70"/>
   <img src="https://url/to/angular-logo.png" alt="Angular" width="70" height="70"/>
   <img src="https://url/to/spring-boot-logo.png" alt="Spring Boot" width="70" height="70"/>
