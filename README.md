@@ -2,9 +2,11 @@
 
 - 🔭 I’m currently working on **Java | Spring-Boot | Microservices | Angular | JavaScript**
 - 🌱 I’m currently learning **Data Structure And Algorithms**
-- 👯 I’m looking to collaborate on **Mobile App Development and Web App Development**
 - 🤝 I’m looking for help with **Machine Learning**
 - 📫 How to reach me **akakakaksky@gmail.com**
+
+- 👯 **I’m looking to collaborate on:**
+ Open source projects related to Java,Spring Boot,Angular, or DevOps tools
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
