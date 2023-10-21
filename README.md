@@ -6,8 +6,5 @@
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/dubey1akash/)
 - 🎯 **Goals:** Contribute to open-source
 
-
-![Akash Dubey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubey1akash&show_icons=true)
-
 ⚡️ **Happy Coding!**
 
