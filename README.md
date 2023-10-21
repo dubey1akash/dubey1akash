@@ -4,7 +4,7 @@
 - 🌱 **Learning:** Advanced algorithms | Data Structure
 - 👯 **Collaborating on:** Java | Angular | Spring Boot | DevOps
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/dubey1akash/)
-- 🎯 **Goals:** Contribute to open-source
+- 🎯 **Goals:** Contribute to Open-Source
 
 ⚡️ **Happy Coding!**
 
